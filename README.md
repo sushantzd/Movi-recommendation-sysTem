@@ -1,4 +1,5 @@
-Movie Recommendation System
+Movie Recommendation System:
+Movie Recommendation System 
 This project demonstrates the implementation of a content-based movie recommendation system using the TMDB 5000 Movies and Credits datasets. The system recommends movies based on the similarity of content attributes such as genres, keywords, and more.
 
 Key features:
