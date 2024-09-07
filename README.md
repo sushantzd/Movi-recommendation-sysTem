@@ -4,8 +4,8 @@ This project demonstrates the implementation of a content-based movie recommenda
 
 Key features:
 
-Data preprocessing and cleaning of movie and credit datasets.
+#Data preprocessing and cleaning of movie and credit datasets.
 
-Content-based filtering using similarity metrics.
+#Content-based filtering using similarity metrics.
 
-Visualization of data and model outputs to better understand the recommendations.
+#Visualization of data and model outputs to better understand the recommendations.
